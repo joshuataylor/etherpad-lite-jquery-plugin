@@ -23,7 +23,7 @@ The Etherpad jQuery Plugin easily allows you to embed and access a pad from Ethe
 'showControls'     : false, // If you want to show controls IE bold, italic, etc.
 'showChat'         : false, // If you want to show the chat button or not
 'showLineNumbers'  : false, // If you want to show the line numbers or not
-'userName'         : 'unnamed', // The username you want to pass to the pad
+'username'         : 'unnamed', // The username you want to pass to the pad
 'useMonospaceFont' : false, // Use monospaced fonts
 'noColors'         : false, // Disable background colors on author text
 'userColor'        : false, // The background color of this authors text in hex format IE #000
